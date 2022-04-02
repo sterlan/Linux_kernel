@@ -1,0 +1,1451 @@
+###-Starting CPU-###
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/0/0ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/0/9ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/0/19ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/0/29ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/0/39ms - Switching Process In
+###-Process: (AAAA:1) has been created-###
+In schedule
+Rq: 
+(Init:0), (AAAA:1)
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/0/40ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:1)
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/-1/49ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:1)
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/-2/59ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:1)
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/-3/69ms - Switching Process In
+###-Process: (BBBB:2) has been created-###
+In schedule
+Rq: 
+(Init:0), (BBBB:2), (AAAA:1)
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 20000001.000000
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/0/70ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:2), (AAAA:1)
+P: (BBBB:2), Goodness: 10000001.000000
+P: (AAAA:1), Goodness: 3.000000
+MIN (P): (AAAA:1), Goodness: 3.000000
+(AAAA:1)/100/79ms - Switching Process In
+###-Process: (CCCC:3) has been created-###
+In schedule
+Rq: 
+(Init:0), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (CCCC:3), Goodness: 1.000000
+P: (BBBB:2), Goodness: 6666667.000000
+P: (AAAA:1), Goodness: 6666667.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/0/80ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (CCCC:3), Goodness: 10000001.000000
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/-1/89ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (CCCC:3), Goodness: 2.000000
+P: (BBBB:2), Goodness: 26666667.000000
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/100/99ms - Switching Process In
+###-Process: (DDDD:4) has been created-###
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (DDDD:4), Goodness: 10000001.000000
+P: (CCCC:3), Goodness: 6666667.000000
+P: (BBBB:2), Goodness: 88888898888889.000000
+P: (AAAA:1), Goodness: 22222232222223.000000
+MIN (P): (CCCC:3), Goodness: 6666667.000000
+(CCCC:3)/-1/100ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 88888898888889.000000
+P: (BBBB:2), Goodness: 8888889.000000
+P: (AAAA:1), Goodness: 2222223.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/0/109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (DDDD:4), Goodness: 59999985.000005
+P: (CCCC:3), Goodness: 7.999997
+P: (BBBB:2), Goodness: 3.999999
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/100/119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (DDDD:4), Goodness: 3.000000
+P: (CCCC:3), Goodness: 2.000000
+P: (BBBB:2), Goodness: 1.333333
+P: (AAAA:1), Goodness: 33333335.444444
+MIN (P): (BBBB:2), Goodness: 1.333333
+(BBBB:2)/-2/129ms - Switching Process In
+###-Process: (EEEE:5) has been created-###
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 20000001.000000
+P: (DDDD:4), Goodness: 13333333.333333
+P: (CCCC:3), Goodness: 8888889.000000
+P: (BBBB:2), Goodness: 59259262962963.000000
+P: (AAAA:1), Goodness: 148148167407408.000000
+MIN (P): (CCCC:3), Goodness: 8888889.000000
+(CCCC:3)/-2/130ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 6666667.000000
+P: (CCCC:3), Goodness: 192592609629630.000000
+P: (BBBB:2), Goodness: 5925925.703704
+P: (AAAA:1), Goodness: 14814815.259259
+MIN (P): (EEEE:5), Goodness: 2.000000
+(EEEE:5)/0/139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 67500004.781250
+P: (DDDD:4), Goodness: 2.250000
+P: (CCCC:3), Goodness: 9.750000
+P: (BBBB:2), Goodness: 1.500000
+P: (AAAA:1), Goodness: 3.750000
+MIN (P): (BBBB:2), Goodness: 1.500000
+(BBBB:2)/100/149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 2.888889
+P: (BBBB:2), Goodness: 45925924.851852
+P: (AAAA:1), Goodness: 1.481482
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-1/159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 53333332.666667
+P: (CCCC:3), Goodness: 1.925926
+P: (BBBB:2), Goodness: 4.592592
+P: (AAAA:1), Goodness: 1.111111
+MIN (P): (AAAA:1), Goodness: 1.111111
+(AAAA:1)/99/169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 5.333333
+P: (CCCC:3), Goodness: 1.444444
+P: (BBBB:2), Goodness: 2.296296
+P: (AAAA:1), Goodness: 54814816.629630
+MIN (P): (EEEE:5), Goodness: 1.333333
+(EEEE:5)/-1/179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 58064517.922477
+P: (DDDD:4), Goodness: 2.903226
+P: (CCCC:3), Goodness: 1.258065
+P: (BBBB:2), Goodness: 1.666667
+P: (AAAA:1), Goodness: 5.967742
+MIN (P): (CCCC:3), Goodness: 1.258065
+(CCCC:3)/-3/189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.645161
+P: (DDDD:4), Goodness: 1.548387
+P: (CCCC:3), Goodness: 51612908.561915
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 2.387097
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/99/199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 4.444444
+P: (BBBB:2), Goodness: 41481482.018519
+P: (AAAA:1), Goodness: 1.370370
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-2/209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 43333335.541667
+P: (CCCC:3), Goodness: 2.222222
+P: (BBBB:2), Goodness: 4.148148
+P: (AAAA:1), Goodness: 1.027778
+MIN (P): (AAAA:1), Goodness: 1.027778
+(AAAA:1)/98/219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 4.333333
+P: (CCCC:3), Goodness: 1.481482
+P: (BBBB:2), Goodness: 2.074074
+P: (AAAA:1), Goodness: 43703708.046296
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/-2/229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 41785716.918846
+P: (DDDD:4), Goodness: 2.089286
+P: (CCCC:3), Goodness: 1.071429
+P: (BBBB:2), Goodness: 1.333333
+P: (AAAA:1), Goodness: 4.214286
+MIN (P): (CCCC:3), Goodness: 1.071429
+(CCCC:3)/-4/239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.178571
+P: (DDDD:4), Goodness: 1.392857
+P: (CCCC:3), Goodness: 43214287.918208
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 2.107143
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/98/249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 4.136752
+P: (BBBB:2), Goodness: 40455839.916941
+P: (AAAA:1), Goodness: 1.344729
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-3/259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 41025643.755424
+P: (CCCC:3), Goodness: 2.068376
+P: (BBBB:2), Goodness: 4.045584
+P: (AAAA:1), Goodness: 1.008547
+MIN (P): (AAAA:1), Goodness: 1.008547
+(AAAA:1)/97/269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 4.102564
+P: (CCCC:3), Goodness: 1.378917
+P: (BBBB:2), Goodness: 2.022792
+P: (AAAA:1), Goodness: 41139604.523121
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/-3/279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40563384.535132
+P: (DDDD:4), Goodness: 2.028169
+P: (CCCC:3), Goodness: 1.022535
+P: (BBBB:2), Goodness: 1.333333
+P: (AAAA:1), Goodness: 4.067606
+MIN (P): (CCCC:3), Goodness: 1.022535
+(CCCC:3)/-5/289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.056338
+P: (DDDD:4), Goodness: 1.352113
+P: (CCCC:3), Goodness: 41014087.256195
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 2.033803
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/97/299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 4.044444
+P: (BBBB:2), Goodness: 40148145.941852
+P: (AAAA:1), Goodness: 1.337037
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-4/309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 40333332.181667
+P: (CCCC:3), Goodness: 2.022222
+P: (BBBB:2), Goodness: 4.014814
+P: (AAAA:1), Goodness: 1.002778
+MIN (P): (AAAA:1), Goodness: 1.002778
+(AAAA:1)/96/319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 4.033333
+P: (CCCC:3), Goodness: 1.348148
+P: (BBBB:2), Goodness: 2.007407
+P: (AAAA:1), Goodness: 40370369.429630
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/-4/329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40184503.910508
+P: (DDDD:4), Goodness: 2.009225
+P: (CCCC:3), Goodness: 1.007380
+P: (BBBB:2), Goodness: 1.333333
+P: (AAAA:1), Goodness: 4.022140
+MIN (P): (CCCC:3), Goodness: 1.007380
+(CCCC:3)/-6/339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.018450
+P: (DDDD:4), Goodness: 1.339483
+P: (CCCC:3), Goodness: 40332106.238915
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 2.011070
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/96/349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 4.014692
+P: (BBBB:2), Goodness: 40048974.537119
+P: (AAAA:1), Goodness: 1.334558
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-5/359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 40110194.470915
+P: (CCCC:3), Goodness: 2.007346
+P: (BBBB:2), Goodness: 4.004897
+P: (AAAA:1), Goodness: 1.000918
+MIN (P): (AAAA:1), Goodness: 1.000918
+(AAAA:1)/95/369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 4.011019
+P: (CCCC:3), Goodness: 1.338231
+P: (BBBB:2), Goodness: 2.002449
+P: (AAAA:1), Goodness: 40122436.851063
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/-5/379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40061146.071537
+P: (DDDD:4), Goodness: 2.003057
+P: (CCCC:3), Goodness: 1.002446
+P: (BBBB:2), Goodness: 1.333333
+P: (AAAA:1), Goodness: 4.007337
+MIN (P): (CCCC:3), Goodness: 1.002446
+(CCCC:3)/-7/389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.006114
+P: (DDDD:4), Goodness: 1.335371
+P: (CCCC:3), Goodness: 40110059.721796
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 2.003669
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/95/399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 4.004884
+P: (BBBB:2), Goodness: 40016279.329391
+P: (AAAA:1), Goodness: 1.333740
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-6/409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 40036631.246624
+P: (CCCC:3), Goodness: 2.002442
+P: (BBBB:2), Goodness: 4.001628
+P: (AAAA:1), Goodness: 1.000305
+MIN (P): (AAAA:1), Goodness: 1.000305
+(AAAA:1)/94/419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 4.003663
+P: (CCCC:3), Goodness: 1.334961
+P: (BBBB:2), Goodness: 2.000814
+P: (AAAA:1), Goodness: 40040700.828971
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/-6/429ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 30000001.000000
+P: (DDDD:4), Goodness: 9.008241
+P: (CCCC:3), Goodness: 3.003663
+P: (BBBB:2), Goodness: 4.501831
+P: (AAAA:1), Goodness: 90091577.615949
+MIN (P): (CCCC:3), Goodness: 3.003663
+(CCCC:3)/-8/433ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 3.000000
+P: (DDDD:4), Goodness: 4.504121
+P: (CCCC:3), Goodness: 90119047.297025
+P: (BBBB:2), Goodness: 3.001221
+P: (AAAA:1), Goodness: 9.009157
+MIN (P): (EEEE:5), Goodness: 3.000000
+(EEEE:5)/100/439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.713838
+P: (CCCC:3), Goodness: 5.143603
+P: (BBBB:2), Goodness: 1.284725
+P: (AAAA:1), Goodness: 2.571018
+MIN (P): (BBBB:2), Goodness: 1.284725
+(BBBB:2)/94/449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.285378
+P: (CCCC:3), Goodness: 2.571802
+P: (BBBB:2), Goodness: 51422102.466918
+P: (AAAA:1), Goodness: 1.714012
+MIN (P): (DDDD:4), Goodness: 1.285378
+(DDDD:4)/-7/459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 51430811.030411
+P: (CCCC:3), Goodness: 1.714535
+P: (BBBB:2), Goodness: 5.142210
+P: (AAAA:1), Goodness: 1.285509
+MIN (P): (AAAA:1), Goodness: 1.285509
+(AAAA:1)/93/469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 5.143081
+P: (CCCC:3), Goodness: 1.285901
+P: (BBBB:2), Goodness: 2.571105
+P: (AAAA:1), Goodness: 51432554.800655
+MIN (P): (CCCC:3), Goodness: 1.285901
+(CCCC:3)/-9/479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.571540
+P: (CCCC:3), Goodness: 51437780.967524
+P: (BBBB:2), Goodness: 1.714070
+P: (AAAA:1), Goodness: 5.143255
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/99/489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.439859
+P: (CCCC:3), Goodness: 4.320163
+P: (BBBB:2), Goodness: 1.079712
+P: (AAAA:1), Goodness: 2.159862
+MIN (P): (BBBB:2), Goodness: 1.079712
+(BBBB:2)/93/499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.079895
+P: (CCCC:3), Goodness: 2.160082
+P: (BBBB:2), Goodness: 43197736.584685
+P: (AAAA:1), Goodness: 1.439908
+MIN (P): (DDDD:4), Goodness: 1.079895
+(DDDD:4)/-8/509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 43200173.198234
+P: (CCCC:3), Goodness: 1.440055
+P: (BBBB:2), Goodness: 4.319773
+P: (AAAA:1), Goodness: 1.079931
+MIN (P): (AAAA:1), Goodness: 1.079931
+(AAAA:1)/92/519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.320017
+P: (CCCC:3), Goodness: 1.080041
+P: (BBBB:2), Goodness: 2.159887
+P: (AAAA:1), Goodness: 43200661.384991
+MIN (P): (CCCC:3), Goodness: 1.080041
+(CCCC:3)/-10/529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.160009
+P: (CCCC:3), Goodness: 43202125.945262
+P: (BBBB:2), Goodness: 1.439925
+P: (AAAA:1), Goodness: 4.320066
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/98/539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.367043
+P: (CCCC:3), Goodness: 4.101313
+P: (BBBB:2), Goodness: 1.025224
+P: (AAAA:1), Goodness: 2.050587
+MIN (P): (BBBB:2), Goodness: 1.025224
+(BBBB:2)/92/549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.025282
+P: (CCCC:3), Goodness: 2.050657
+P: (BBBB:2), Goodness: 41011903.309311
+P: (AAAA:1), Goodness: 1.367058
+MIN (P): (DDDD:4), Goodness: 1.025282
+(DDDD:4)/-9/559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 41012674.360620
+P: (CCCC:3), Goodness: 1.367105
+P: (BBBB:2), Goodness: 4.101190
+P: (AAAA:1), Goodness: 1.025294
+MIN (P): (AAAA:1), Goodness: 1.025294
+(AAAA:1)/91/569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.101267
+P: (CCCC:3), Goodness: 1.025328
+P: (BBBB:2), Goodness: 2.050595
+P: (AAAA:1), Goodness: 41012830.211417
+MIN (P): (CCCC:3), Goodness: 1.025328
+(CCCC:3)/-11/579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.050634
+P: (CCCC:3), Goodness: 41013293.662469
+P: (BBBB:2), Goodness: 1.367063
+P: (AAAA:1), Goodness: 4.101283
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/97/589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.344383
+P: (CCCC:3), Goodness: 4.033210
+P: (BBBB:2), Goodness: 1.008268
+P: (AAAA:1), Goodness: 2.016582
+MIN (P): (BBBB:2), Goodness: 1.008268
+(BBBB:2)/91/599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.008287
+P: (CCCC:3), Goodness: 2.016605
+P: (BBBB:2), Goodness: 40331696.855288
+P: (AAAA:1), Goodness: 1.344388
+MIN (P): (DDDD:4), Goodness: 1.008287
+(DDDD:4)/-10/609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40331950.948002
+P: (CCCC:3), Goodness: 1.344403
+P: (BBBB:2), Goodness: 4.033169
+P: (AAAA:1), Goodness: 1.008291
+MIN (P): (AAAA:1), Goodness: 1.008291
+(AAAA:1)/90/619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.033195
+P: (CCCC:3), Goodness: 1.008303
+P: (BBBB:2), Goodness: 2.016585
+P: (AAAA:1), Goodness: 40332003.379832
+MIN (P): (CCCC:3), Goodness: 1.008303
+(CCCC:3)/-12/629ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.016597
+P: (CCCC:3), Goodness: 40332152.608886
+P: (BBBB:2), Goodness: 1.344390
+P: (AAAA:1), Goodness: 4.033200
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/96/639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.336996
+P: (CCCC:3), Goodness: 4.011009
+P: (BBBB:2), Goodness: 1.002741
+P: (AAAA:1), Goodness: 2.005497
+MIN (P): (BBBB:2), Goodness: 1.002741
+(BBBB:2)/90/649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.002747
+P: (CCCC:3), Goodness: 2.005504
+P: (BBBB:2), Goodness: 40109958.870082
+P: (AAAA:1), Goodness: 1.336998
+MIN (P): (DDDD:4), Goodness: 1.002747
+(DDDD:4)/-11/659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40110043.101324
+P: (CCCC:3), Goodness: 1.337003
+P: (BBBB:2), Goodness: 4.010995
+P: (AAAA:1), Goodness: 1.002749
+MIN (P): (AAAA:1), Goodness: 1.002749
+(AAAA:1)/89/669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.011004
+P: (CCCC:3), Goodness: 1.002752
+P: (BBBB:2), Goodness: 2.005498
+P: (AAAA:1), Goodness: 40110059.145370
+MIN (P): (CCCC:3), Goodness: 1.002752
+(CCCC:3)/-13/679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.005502
+P: (CCCC:3), Goodness: 40110107.277509
+P: (BBBB:2), Goodness: 1.336999
+P: (AAAA:1), Goodness: 4.011006
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/95/689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.334552
+P: (CCCC:3), Goodness: 4.003663
+P: (BBBB:2), Goodness: 1.000912
+P: (AAAA:1), Goodness: 2.001829
+MIN (P): (BBBB:2), Goodness: 1.000912
+(BBBB:2)/89/699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000914
+P: (CCCC:3), Goodness: 2.001831
+P: (BBBB:2), Goodness: 40036586.480287
+P: (AAAA:1), Goodness: 1.334553
+MIN (P): (DDDD:4), Goodness: 1.000914
+(DDDD:4)/-12/709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40036614.505934
+P: (CCCC:3), Goodness: 1.334554
+P: (BBBB:2), Goodness: 4.003658
+P: (AAAA:1), Goodness: 1.000915
+MIN (P): (AAAA:1), Goodness: 1.000915
+(AAAA:1)/88/719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.003661
+P: (CCCC:3), Goodness: 1.000916
+P: (BBBB:2), Goodness: 2.001829
+P: (AAAA:1), Goodness: 40036622.513261
+MIN (P): (CCCC:3), Goodness: 1.000916
+(CCCC:3)/-14/729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.001831
+P: (CCCC:3), Goodness: 40036638.527917
+P: (BBBB:2), Goodness: 1.334553
+P: (AAAA:1), Goodness: 4.003662
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/94/739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333739
+P: (CCCC:3), Goodness: 4.001220
+P: (BBBB:2), Goodness: 1.000304
+P: (AAAA:1), Goodness: 2.000609
+MIN (P): (BBBB:2), Goodness: 1.000304
+(BBBB:2)/88/749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000304
+P: (CCCC:3), Goodness: 2.000610
+P: (BBBB:2), Goodness: 40012188.717558
+P: (AAAA:1), Goodness: 1.333740
+MIN (P): (DDDD:4), Goodness: 1.000304
+(DDDD:4)/-13/759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40012196.719999
+P: (CCCC:3), Goodness: 1.333740
+P: (BBBB:2), Goodness: 4.001218
+P: (AAAA:1), Goodness: 1.000305
+MIN (P): (AAAA:1), Goodness: 1.000305
+(AAAA:1)/87/769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.001219
+P: (CCCC:3), Goodness: 1.000305
+P: (BBBB:2), Goodness: 2.000609
+P: (AAAA:1), Goodness: 40012200.721220
+MIN (P): (CCCC:3), Goodness: 1.000305
+(CCCC:3)/-15/779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000610
+P: (CCCC:3), Goodness: 40012204.722440
+P: (BBBB:2), Goodness: 1.333740
+P: (AAAA:1), Goodness: 4.001220
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/93/789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333469
+P: (CCCC:3), Goodness: 4.000406
+P: (BBBB:2), Goodness: 1.000101
+P: (AAAA:1), Goodness: 2.000203
+MIN (P): (BBBB:2), Goodness: 1.000101
+(BBBB:2)/87/799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000101
+P: (CCCC:3), Goodness: 2.000203
+P: (BBBB:2), Goodness: 40004061.412639
+P: (AAAA:1), Goodness: 1.333469
+MIN (P): (DDDD:4), Goodness: 1.000101
+(DDDD:4)/-14/809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40004065.413046
+P: (CCCC:3), Goodness: 1.333469
+P: (BBBB:2), Goodness: 4.000406
+P: (AAAA:1), Goodness: 1.000102
+MIN (P): (AAAA:1), Goodness: 1.000102
+(AAAA:1)/86/819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.000406
+P: (CCCC:3), Goodness: 1.000102
+P: (BBBB:2), Goodness: 2.000203
+P: (AAAA:1), Goodness: 40004065.413046
+MIN (P): (CCCC:3), Goodness: 1.000102
+(CCCC:3)/-16/829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000203
+P: (CCCC:3), Goodness: 40004065.413046
+P: (BBBB:2), Goodness: 1.333469
+P: (AAAA:1), Goodness: 4.000406
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/92/839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333378
+P: (CCCC:3), Goodness: 4.000135
+P: (BBBB:2), Goodness: 1.000034
+P: (AAAA:1), Goodness: 2.000068
+MIN (P): (BBBB:2), Goodness: 1.000034
+(BBBB:2)/86/849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000034
+P: (CCCC:3), Goodness: 2.000068
+P: (BBBB:2), Goodness: 40001353.045733
+P: (AAAA:1), Goodness: 1.333378
+MIN (P): (DDDD:4), Goodness: 1.000034
+(DDDD:4)/-15/859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40001353.045733
+P: (CCCC:3), Goodness: 1.333378
+P: (BBBB:2), Goodness: 4.000135
+P: (AAAA:1), Goodness: 1.000034
+MIN (P): (AAAA:1), Goodness: 1.000034
+(AAAA:1)/85/869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.000135
+P: (CCCC:3), Goodness: 1.000034
+P: (BBBB:2), Goodness: 2.000068
+P: (AAAA:1), Goodness: 40001353.045733
+MIN (P): (CCCC:3), Goodness: 1.000034
+(CCCC:3)/-17/879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000068
+P: (CCCC:3), Goodness: 40001353.045733
+P: (BBBB:2), Goodness: 1.333378
+P: (AAAA:1), Goodness: 4.000135
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/91/889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333348
+P: (CCCC:3), Goodness: 4.000045
+P: (BBBB:2), Goodness: 1.000011
+P: (AAAA:1), Goodness: 2.000022
+MIN (P): (BBBB:2), Goodness: 1.000011
+(BBBB:2)/85/899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000011
+P: (CCCC:3), Goodness: 2.000022
+P: (BBBB:2), Goodness: 40000449.005029
+P: (AAAA:1), Goodness: 1.333348
+MIN (P): (DDDD:4), Goodness: 1.000011
+(DDDD:4)/-16/909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40000449.005029
+P: (CCCC:3), Goodness: 1.333348
+P: (BBBB:2), Goodness: 4.000045
+P: (AAAA:1), Goodness: 1.000011
+MIN (P): (AAAA:1), Goodness: 1.000011
+(AAAA:1)/84/919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.000045
+P: (CCCC:3), Goodness: 1.000011
+P: (BBBB:2), Goodness: 2.000022
+P: (AAAA:1), Goodness: 40000449.005029
+MIN (P): (CCCC:3), Goodness: 1.000011
+(CCCC:3)/-18/929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000022
+P: (CCCC:3), Goodness: 40000449.005029
+P: (BBBB:2), Goodness: 1.333348
+P: (AAAA:1), Goodness: 4.000045
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/90/939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333338
+P: (CCCC:3), Goodness: 4.000015
+P: (BBBB:2), Goodness: 1.000004
+P: (AAAA:1), Goodness: 2.000007
+MIN (P): (BBBB:2), Goodness: 1.000004
+(BBBB:2)/84/949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000004
+P: (CCCC:3), Goodness: 2.000007
+P: (BBBB:2), Goodness: 40000149.000551
+P: (AAAA:1), Goodness: 1.333338
+MIN (P): (DDDD:4), Goodness: 1.000004
+(DDDD:4)/-17/959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40000149.000551
+P: (CCCC:3), Goodness: 1.333338
+P: (BBBB:2), Goodness: 4.000015
+P: (AAAA:1), Goodness: 1.000004
+MIN (P): (AAAA:1), Goodness: 1.000004
+(AAAA:1)/83/969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.000015
+P: (CCCC:3), Goodness: 1.000004
+P: (BBBB:2), Goodness: 2.000007
+P: (AAAA:1), Goodness: 40000149.000551
+MIN (P): (CCCC:3), Goodness: 1.000004
+(CCCC:3)/-19/979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000007
+P: (CCCC:3), Goodness: 40000149.000551
+P: (BBBB:2), Goodness: 1.333338
+P: (AAAA:1), Goodness: 4.000015
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/89/989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333335
+P: (CCCC:3), Goodness: 4.000005
+P: (BBBB:2), Goodness: 1.000001
+P: (AAAA:1), Goodness: 2.000002
+MIN (P): (BBBB:2), Goodness: 1.000001
+(BBBB:2)/83/999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000001
+P: (CCCC:3), Goodness: 2.000002
+P: (BBBB:2), Goodness: 40000049.000059
+P: (AAAA:1), Goodness: 1.333335
+MIN (P): (DDDD:4), Goodness: 1.000001
+(DDDD:4)/-18/1009ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40000049.000059
+P: (CCCC:3), Goodness: 1.333335
+P: (BBBB:2), Goodness: 4.000005
+P: (AAAA:1), Goodness: 1.000001
+MIN (P): (AAAA:1), Goodness: 1.000001
+(AAAA:1)/82/1019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.000005
+P: (CCCC:3), Goodness: 1.000001
+P: (BBBB:2), Goodness: 2.000002
+P: (AAAA:1), Goodness: 40000049.000059
+MIN (P): (CCCC:3), Goodness: 1.000001
+(CCCC:3)/-20/1029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000002
+P: (CCCC:3), Goodness: 40000049.000059
+P: (BBBB:2), Goodness: 1.333335
+P: (AAAA:1), Goodness: 4.000005
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/88/1039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333334
+P: (CCCC:3), Goodness: 4.000001
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 2.000001
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/82/1049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 2.000001
+P: (BBBB:2), Goodness: 40000017.000007
+P: (AAAA:1), Goodness: 1.333334
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-19/1059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40000017.000007
+P: (CCCC:3), Goodness: 1.333334
+P: (BBBB:2), Goodness: 4.000001
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/81/1069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.000001
+P: (CCCC:3), Goodness: 1.000000
+P: (BBBB:2), Goodness: 2.000001
+P: (AAAA:1), Goodness: 40000017.000007
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-21/1079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000001
+P: (CCCC:3), Goodness: 40000017.000007
+P: (BBBB:2), Goodness: 1.333334
+P: (AAAA:1), Goodness: 4.000001
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/87/1089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333333
+P: (CCCC:3), Goodness: 4.000000
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 2.000000
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/81/1099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 2.000000
+P: (BBBB:2), Goodness: 40000005.000000
+P: (AAAA:1), Goodness: 1.333333
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-20/1109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40000005.000000
+P: (CCCC:3), Goodness: 1.333333
+P: (BBBB:2), Goodness: 4.000000
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/80/1119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.333333
+P: (DDDD:4), Goodness: 4.000000
+P: (CCCC:3), Goodness: 1.000000
+P: (BBBB:2), Goodness: 2.000000
+P: (AAAA:1), Goodness: 40000005.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-22/1129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000000
+P: (CCCC:3), Goodness: 40000005.000000
+P: (BBBB:2), Goodness: 1.333333
+P: (AAAA:1), Goodness: 4.000000
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/86/1139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (BBBB:2), (AAAA:1)
+P: (EEEE:5), Goodness: 40000001.000000
+P: (DDDD:4), Goodness: 1.333333
+P: (CCCC:3), Goodness: 4.000000
+P: (BBBB:2), Goodness: 1.000000
+P: (AAAA:1), Goodness: 2.000000
+MIN (P): (BBBB:2), Goodness: 1.000000
+(BBBB:2)/80/1149ms - Switching Process In
+CDA: thread (BBBB:2) finished
+###-Process: (BBBB:2) is going down-###
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (AAAA:1)
+P: (EEEE:5), Goodness: 4.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 2.000000
+P: (AAAA:1), Goodness: 1.333333
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-21/1160ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3), (AAAA:1)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 40000001.000000
+P: (CCCC:3), Goodness: 1.333333
+P: (AAAA:1), Goodness: 1.000000
+MIN (P): (AAAA:1), Goodness: 1.000000
+(AAAA:1)/79/1169ms - Switching Process In
+CDA: thread (AAAA:1) finished
+###-Process: (AAAA:1) is going down-###
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 1.500000
+P: (DDDD:4), Goodness: 30000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-23/1179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 3.000000
+P: (CCCC:3), Goodness: 30000001.000000
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/85/1179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 20000001.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 2.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-22/1189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 20000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-24/1199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000000
+P: (CCCC:3), Goodness: 20000001.000000
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/84/1209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 20000001.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 2.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-23/1219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 20000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-25/1229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000000
+P: (CCCC:3), Goodness: 20000001.000000
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/83/1239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 20000001.000000
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 2.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-24/1249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 2.000000
+P: (DDDD:4), Goodness: 20000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-26/1259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:5), (DDDD:4), (CCCC:3)
+P: (EEEE:5), Goodness: 1.000000
+P: (DDDD:4), Goodness: 2.000000
+P: (CCCC:3), Goodness: 20000001.000000
+MIN (P): (EEEE:5), Goodness: 1.000000
+(EEEE:5)/82/1269ms - Switching Process In
+CDA: thread (EEEE:5) finished
+###-Process: (EEEE:5) is going down-###
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 10000001.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-25/1277ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 10000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-27/1279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 10000001.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-26/1289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 10000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-28/1299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 10000001.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-27/1309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 10000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-29/1319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 10000001.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-28/1329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 10000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-30/1339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 10000001.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-29/1349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 10000001.000000
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/-31/1359ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 0.333333
+MIN (P): (CCCC:3), Goodness: 0.333333
+(CCCC:3)/100/1369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:4), (CCCC:3)
+P: (DDDD:4), Goodness: 1.000000
+P: (CCCC:3), Goodness: 10000001.000000
+MIN (P): (DDDD:4), Goodness: 1.000000
+(DDDD:4)/-30/1369ms - Switching Process In
+CDA: thread (DDDD:4) finished
+###-Process: (DDDD:4) is going down-###
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/99/1377ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/98/1379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/97/1389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/96/1399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/95/1409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/94/1419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/93/1429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/92/1439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/91/1449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/90/1459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:3)
+P: (CCCC:3), Goodness: 1.000000
+MIN (P): (CCCC:3), Goodness: 1.000000
+(CCCC:3)/89/1469ms - Switching Process In
+CDA: thread (CCCC:3) finished
+###-Process: (CCCC:3) is going down-###
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/1470ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/1479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/1489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/1499ms - Switching Process In
+###-Sending Kill Message-###
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###

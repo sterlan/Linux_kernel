@@ -1,0 +1,4454 @@
+###-Starting CPU-###
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/0/0ms - Switching Process In
+###-Process: (EEEE:1) has been created-###
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/0/7ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-1/9ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-2/19ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-3/29ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-4/39ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-5/49ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-6/59ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-7/69ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-8/79ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-9/89ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/-10/99ms - Switching Process In
+###-Process: (EEEE:1):(GGGG:2) has been created-###
+###-Process: (BBBB:3) has been created-###
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/0/100ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/0/109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/-1/119ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/125ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-1/129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-2/149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/98/159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-3/169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/97/179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-4/189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/96/199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-5/209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/95/219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-6/229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/94/239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-7/249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/93/259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-8/269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/92/279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-9/289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/91/299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-10/309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/90/319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-11/329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/89/339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-12/349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/88/359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-13/369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/87/379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-14/389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/86/399ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/405ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-15/419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/98/429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-16/439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/97/449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/-17/459ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/96/460ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/100/469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/95/479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/99/489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/94/499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/98/509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/93/519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/97/529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/92/539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/96/549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/91/559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/95/569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/90/579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/94/589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/89/599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/93/609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/88/619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/92/629ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/87/639ms - Switching Process In
+###-Process: (AAAA:4) has been created-###
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/0/647ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-1/659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-2/679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/98/689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-3/699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/97/709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-4/719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/96/729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-5/739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/95/749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-6/759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/94/769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-7/779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/93/789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-8/799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/92/809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-9/819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/91/829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/91/839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-10/849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/90/859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/90/869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-11/879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/89/889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/89/899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-12/909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/88/919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/88/929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-13/939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/87/949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/87/959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-14/969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/86/979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/86/989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-15/999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-16/1009ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/85/1019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-17/1029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/84/1039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-18/1049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/83/1059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-19/1069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/82/1079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-20/1089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/81/1099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-21/1109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/80/1119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-22/1129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/79/1139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-23/1149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/78/1159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-24/1169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/77/1179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-25/1189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/76/1199ms - Switching Process In
+###-Process: (CCCC:5) has been created-###
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/0/1200ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/1209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/1209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/1219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/1229ms - Switching Process In
+###-Process: (DDDD:6) has been created-###
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/0/1234ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/1239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-1/1249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/1259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-2/1269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/1279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/98/1289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-3/1299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/1309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/97/1319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-4/1329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/1339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/96/1349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-5/1359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/1369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/95/1379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-6/1389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/1399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/94/1409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-7/1419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/1429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/93/1439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-8/1449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/1459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/92/1469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-9/1479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/1489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/91/1499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-10/1509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/1519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/90/1529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-11/1539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/89/1549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/89/1559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-12/1569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/88/1579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/88/1589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-13/1599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/87/1609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/87/1619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-14/1629ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/86/1639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/86/1649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-15/1659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-16/1669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/85/1679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-17/1689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/84/1699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-18/1709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/83/1719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-19/1729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/82/1739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-20/1749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/81/1759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-21/1769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/80/1779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-22/1789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/79/1799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-23/1809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/78/1819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-24/1829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/77/1839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-25/1849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/76/1859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-26/1869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/75/1879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-27/1889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/74/1899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-28/1909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/73/1919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-29/1929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/72/1939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/-30/1949ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/1958ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/71/1959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/1969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/70/1979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/1989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/69/1999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/2009ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/68/2019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/2029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/67/2039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/2049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/66/2059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/2069ms - Switching Process In
+	(DDDD:6)/94/2075ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/65/2076ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/64/2079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/85/2089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/63/2099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/84/2109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/62/2119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/83/2129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/61/2139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/82/2149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/60/2159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/81/2169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/59/2179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/80/2189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/58/2199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/79/2209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/57/2219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/78/2229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/56/2239ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/2240ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/2241ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/2249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/2259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/2269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/2279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/2289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/2299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/2309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/2319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/2329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/2339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/2349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/2359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/2369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/93/2379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/2389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/92/2399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/2409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/91/2419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/2429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/90/2439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/2449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/89/2459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/89/2469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/88/2479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/88/2489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/87/2499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/87/2509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/86/2519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/86/2529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/85/2539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/84/2549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/85/2559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/83/2569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/84/2579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/82/2589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/83/2599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/81/2609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/82/2619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/80/2629ms - Switching Process In
+	(DDDD:6)/80/2634ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/81/2635ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/80/2639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/77/2649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/79/2659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/76/2669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/78/2679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/75/2689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/77/2699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/74/2709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/76/2719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/73/2729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/75/2739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/72/2749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/74/2759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/71/2769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/73/2779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/70/2789ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/2789ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/2790ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/2799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/2809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/2819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/2829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/98/2839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/2849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/97/2859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/2869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/96/2879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/2889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/95/2899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/2909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/94/2919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/93/2929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/93/2939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/92/2949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/92/2959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/91/2969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/91/2979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/90/2989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/90/2999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/89/3009ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/89/3019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/88/3029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/88/3039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/87/3049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/87/3059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/86/3069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/86/3079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/85/3089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/84/3099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/85/3109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/83/3119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/84/3129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/82/3139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/83/3149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/81/3159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/82/3169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/80/3179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/81/3189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/79/3199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/80/3209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/78/3219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/79/3229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/77/3239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/78/3249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/76/3259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/77/3269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/75/3279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/76/3289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/74/3299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/75/3309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/73/3319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/74/3329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/72/3339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/73/3349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/71/3359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/72/3369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/70/3379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/71/3389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/69/3399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/70/3409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/68/3419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/69/3429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/67/3439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/68/3449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/66/3459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/67/3469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/65/3479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/66/3489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/64/3499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/65/3509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/63/3519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/64/3529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/62/3539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/63/3549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/61/3559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/62/3569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/60/3579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/61/3589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/59/3599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/60/3609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/58/3619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/59/3629ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/57/3639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/58/3649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/56/3659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/57/3669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/55/3679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/56/3689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/54/3699ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/3709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/55/3709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/3719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/54/3729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/3739ms - Switching Process In
+	(DDDD:6)/98/3746ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/72/3747ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/53/3749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/71/3759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/52/3769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/70/3779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/51/3789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/69/3799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/50/3809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/68/3819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/49/3829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/67/3839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/48/3849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/66/3859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/47/3869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/65/3879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/46/3889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/64/3899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/45/3909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/63/3919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/44/3929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/62/3939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/43/3949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/61/3959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/42/3969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/60/3979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/41/3989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/59/3999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/40/4009ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/58/4019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/39/4029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/57/4039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/38/4049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/56/4059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/37/4069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/55/4079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/36/4089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/54/4099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/35/4109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/53/4119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/34/4129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/52/4139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/33/4149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/51/4159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/32/4169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/50/4179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/31/4189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/49/4199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/30/4209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/48/4219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/29/4229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/47/4239ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/4240ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/4241ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/4249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/4259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/4269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/4279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/4289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/4299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/4309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/4319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/4329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/4339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/4349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/4359ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/4369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/4369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/4379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/4389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/4399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/4409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/4419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/4429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/4439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/4449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/4459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/89/4469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/4479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/88/4489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/93/4499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/87/4509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/92/4519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/86/4529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/91/4539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/90/4549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/85/4559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/89/4569ms - Switching Process In
+	(DDDD:6)/89/4577ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/84/4578ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/83/4579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/28/4589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/82/4599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/27/4609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/81/4619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/26/4629ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/80/4639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/25/4649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/79/4659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/24/4669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/78/4679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/23/4689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/77/4699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/22/4709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/76/4719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/21/4729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/75/4739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/20/4749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/74/4759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/19/4769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/73/4779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/18/4789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/72/4799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/17/4809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/71/4819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/16/4829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/70/4839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/15/4849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/69/4859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/14/4869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/68/4879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/13/4889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/67/4899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/12/4909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/66/4919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/11/4929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/65/4939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/10/4949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/64/4959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/9/4969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/63/4979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/8/4989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/62/4999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/7/5009ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/61/5019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/6/5029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/60/5039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/5/5049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/59/5059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/4/5069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/58/5079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/3/5089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/57/5099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/2/5109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/56/5119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/1/5129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/55/5139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/5149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/54/5159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/5169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/53/5179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/98/5189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/52/5199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/97/5209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/51/5219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/96/5229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/50/5239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/95/5249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/49/5259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/94/5269ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/5278ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/5279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/5279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/5289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/5299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/5309ms - Switching Process In
+	(DDDD:6)/98/5317ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/48/5318ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/98/5319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/47/5329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/97/5339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/46/5349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/96/5359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/45/5369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/95/5379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/44/5389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/94/5399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/43/5409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/93/5419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/42/5429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/92/5439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/41/5449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/91/5459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/40/5469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/90/5479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/39/5489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/89/5499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/38/5509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/88/5519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/37/5529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/87/5539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/36/5549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/86/5559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/35/5569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/85/5579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/34/5589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/84/5599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/33/5609ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/5612ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/5613ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/5619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/5629ms - Switching Process In
+	(DDDD:6)/99/5638ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/5639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/5639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/83/5649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/5659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/82/5669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/5679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/81/5689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/5699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/80/5709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/5719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/79/5729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/5739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/78/5749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/5759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/77/5769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/5779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/76/5789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/5799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/75/5809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/89/5819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/74/5829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/88/5839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/73/5849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/87/5859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/72/5869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/86/5879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/71/5889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/85/5899ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/5906ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/5907ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/5909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/5919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/5929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/5939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/5949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/5959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/5969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/5979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/5989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/5999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/6009ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/6019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/6029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/93/6039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/6049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/92/6059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/6069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/91/6079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/6089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/90/6099ms - Switching Process In
+	(DDDD:6)/90/6108ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/6109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/89/6109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/70/6119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/88/6129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/69/6139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/87/6149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/68/6159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/86/6169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/67/6179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/85/6189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/66/6199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/84/6209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/65/6219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/83/6229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/64/6239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/82/6249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/63/6259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/81/6269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/62/6279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/80/6289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/61/6299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/79/6309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/60/6319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/78/6329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/59/6339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/77/6349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/58/6359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/76/6369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/57/6379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/75/6389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/56/6399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/74/6409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/55/6419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/73/6429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/54/6439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/72/6449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/53/6459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/71/6469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/52/6479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/70/6489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/51/6499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/69/6509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/50/6519ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/6525ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/6526ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/100/6529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/6539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/99/6549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/6559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/98/6569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/6579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/97/6589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/6599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/96/6609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/6619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/95/6629ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/6639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/94/6649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/93/6659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/93/6669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/92/6679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/92/6689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/91/6699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/91/6709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/90/6719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/90/6729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/89/6739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/89/6749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/88/6759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/88/6769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/87/6779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/87/6789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/86/6799ms - Switching Process In
+	(DDDD:6)/86/6806ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/68/6807ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/86/6809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/67/6819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/85/6829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/66/6839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/84/6849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/65/6859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/83/6869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/64/6879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/82/6889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/63/6899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/81/6909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/62/6919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/80/6929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/61/6939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/79/6949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/60/6959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/78/6969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/59/6979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/77/6989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/58/6999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (BBBB:3), (EEEE:1):(GGGG:2), (EEEE:1)
+(BBBB:3)/76/7009ms - Switching Process In
+###-Process: (BBBB:3) is going down-###
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/85/7010ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/57/7019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/84/7029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/56/7039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/83/7049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/55/7059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/82/7069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/54/7079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/81/7089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/53/7099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/80/7109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/52/7119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/79/7129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/51/7139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/78/7149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/50/7159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/77/7169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/49/7179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/76/7189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/48/7199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/75/7209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/47/7219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/74/7229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/46/7239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/73/7249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/45/7259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/72/7269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/44/7279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/71/7289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/43/7299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/70/7309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/42/7319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/69/7329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/41/7339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/68/7349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/40/7359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/67/7369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/39/7379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/66/7389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/38/7399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/65/7409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/37/7419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/64/7429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/36/7439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/63/7449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/35/7459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/62/7469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/34/7479ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/7488ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/7489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/7489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/7499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/7509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/7519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/7529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/7539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/7549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/7559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/7569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/7579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/7589ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/7594ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/7599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/93/7609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/7619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/92/7629ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/7639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/91/7649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/7659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/90/7669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/7679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/89/7689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/7699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/88/7709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/7719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/87/7729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/7739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/86/7749ms - Switching Process In
+	(DDDD:6)/86/7759ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/7760ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/7769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/61/7779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/7789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/60/7799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/89/7809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/59/7819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/88/7829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/58/7839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/87/7849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/57/7859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/86/7869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/56/7879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/85/7889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/55/7899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/84/7909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/54/7919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/83/7929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/53/7939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/82/7949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/52/7959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/81/7969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/51/7979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/80/7989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/50/7999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/79/8009ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/8016ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/8017ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/8019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/8029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/8039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/8049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/8059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/8069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/8079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/8089ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/8098ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/8099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/8109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/8119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/8129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/8139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/8149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/8159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/8169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/8179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/8189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/8199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/8209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/8219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/93/8229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/89/8239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/92/8249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/88/8259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/91/8269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/87/8279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/90/8289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/86/8299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/89/8309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/88/8319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/85/8329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/87/8339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/84/8349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/86/8359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/83/8369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/85/8379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/82/8389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/84/8399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/81/8409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/83/8419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/80/8429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/82/8439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/79/8449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/81/8459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/78/8469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/80/8479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/77/8489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/79/8499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/76/8509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/78/8519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/75/8529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/77/8539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/74/8549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/76/8559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/73/8569ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/75/8579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/72/8589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/74/8599ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/8609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/71/8609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/8619ms - Switching Process In
+	(DDDD:6)/99/8629ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/70/8630ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/69/8639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/49/8649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/68/8659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/48/8669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/67/8679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/47/8689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/66/8699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/46/8709ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/65/8719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/45/8729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/64/8739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/44/8749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/63/8759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/43/8769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/62/8779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/42/8789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/61/8799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/41/8809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/60/8819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/40/8829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/59/8839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/39/8849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/58/8859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/38/8869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/57/8879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/37/8889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/56/8899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/36/8909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/55/8919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/35/8929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/54/8939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/34/8949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/53/8959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/33/8969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/52/8979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/32/8989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/51/8999ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/31/9009ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/50/9019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/30/9029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/49/9039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/29/9049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/48/9059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/28/9069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/47/9079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/27/9089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/46/9099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/26/9109ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/45/9119ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/25/9129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/44/9139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/24/9149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/43/9159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/23/9169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/42/9179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/22/9189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/41/9199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/21/9209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/40/9219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/20/9229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/39/9239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/19/9249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/38/9259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/18/9269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/37/9279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/17/9289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/36/9299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/16/9309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/35/9319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/15/9329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/34/9339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/14/9349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/33/9359ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/9361ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/100/9362ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/9369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/99/9379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/9389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/98/9399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/9409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/97/9419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/9429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/96/9439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/9449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/95/9459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/9469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/94/9479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/9489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/93/9499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/9509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/92/9519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/9529ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/91/9539ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/9549ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/90/9559ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/9569ms - Switching Process In
+###-An Interrupt has fired!-###
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/89/9576ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/100/9579ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/88/9589ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/99/9599ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/87/9609ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/98/9619ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/86/9629ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/97/9639ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/85/9649ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/96/9659ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/84/9669ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/95/9679ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/83/9689ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/94/9699ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (DDDD:6), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(DDDD:6)/82/9709ms - Switching Process In
+	(DDDD:6)/82/9715ms - Going to Sleep
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/93/9716ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/92/9719ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/13/9729ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/91/9739ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/12/9749ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/90/9759ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/11/9769ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/89/9779ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/10/9789ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/88/9799ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/9/9809ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/87/9819ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/8/9829ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/86/9839ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/7/9849ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/85/9859ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/6/9869ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/84/9879ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/5/9889ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/83/9899ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/4/9909ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/82/9919ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/3/9929ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/81/9939ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/2/9949ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/80/9959ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/1/9969ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/79/9979ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/100/9989ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (CCCC:5), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(CCCC:5)/78/9999ms - Switching Process In
+###-Sending Kill Message-###
+###-Process: (CCCC:5) is going down-###
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/99/10000ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (AAAA:4), (EEEE:1):(GGGG:2), (EEEE:1)
+(AAAA:4)/-26/10009ms - Switching Process In
+###-Process: (AAAA:4) is going down-###
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/98/10010ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/97/10019ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/96/10029ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/95/10039ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/94/10049ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/93/10059ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/92/10069ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/91/10079ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/90/10089ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/89/10099ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1)/100/10109ms - Switching Process In
+###-Process: (EEEE:1):(FFFF:7) has been created-###
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(FFFF:7), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(FFFF:7)/0/10110ms - Switching Process In
+###-Process: (EEEE:1):(FFFF:7) is going down-###
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1)/100/10110ms - Switching Process In
+In schedule
+Rq: 
+(Init:0), (EEEE:1):(GGGG:2), (EEEE:1)
+(EEEE:1):(GGGG:2)/88/10119ms - Switching Process In
+###-Process: (EEEE:1):(GGGG:2) is going down-###
+In schedule
+Rq: 
+(Init:0), (EEEE:1)
+(EEEE:1)/99/10120ms - Switching Process In
+###-Process: (EEEE:1) is going down-###
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10120ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10129ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10139ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10149ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10159ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10169ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10179ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10189ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10199ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10209ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10219ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10229ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10239ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10249ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10259ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10269ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10279ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10289ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10299ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10309ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10319ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10329ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10339ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10349ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10359ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10369ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10379ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10389ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10399ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10409ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10419ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10429ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10439ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10449ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10459ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10469ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10479ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10489ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10499ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10509ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10519ms - Switching Process In
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10529ms - Switching Process In
+###-An Interrupt has fired!-###
+	(DDDD:6)/100/10533ms - Waking Up from Sleep
+In schedule
+Rq: 
+(Init:0), (DDDD:6)
+(DDDD:6)/100/10534ms - Switching Process In
+###-Process: (DDDD:6) is going down-###
+In schedule
+Rq: 
+(Init:0)
+(Init:0)/100/10534ms - Switching Process In
+###-Process: (Init:0) is going down-###
+###-Shutting Down CPU-###
